@@ -1,0 +1,17 @@
+.count{
+    text-align: center;
+    font-size: 120px;
+    color: blue;
+}
+
+button{
+    font-size: 50px;
+}
+
+#increaseButton{
+    color: green;
+}
+
+#decreaseButton{
+    color: red;
+}
